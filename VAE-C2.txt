@@ -1,3 +1,5 @@
+user: 20초 user1: 60초 user2: 120초
+
 ID: bae32312, Password: 123, Rank: admin
 ID: admin, Password: 1234, Rank: admin
 ID: user01, Password: abcd, Rank: user
