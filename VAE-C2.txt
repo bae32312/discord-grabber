@@ -3,3 +3,4 @@ ID: admin, Password: 1234, Rank: admin
 ID: user01, Password: abcd, Rank: user
 ID: test, Password: test, Rank: admin
 ID: 3px, Password: XAlotnjd4647*, Rank: user
+ID: login, Password: login, Rank: user
