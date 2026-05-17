@@ -4,4 +4,3 @@ ID: bae32312, Password: 112233@as, Rank: admin
 ID: 3px, Password: XAlotnjd4647*, Rank: user
 ID: test, Password: 112233@as, Rank: admin
 ID: dqmq, Password: dqmq1017, Rank: admin
-ID: rove, Password: 10293847rove!, Rank: user2
