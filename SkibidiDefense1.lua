@@ -621,32 +621,10 @@ do
 		return _0x49d955
 	end
 	local function _fooppyn(_somlkxpgwmw__)
-		if
-			_0x073f10(_bhjgjdojqjwfl.Author) ~= 354808
-			or _0x073f10(_bhjgjdojqjwfl.OpenButton) ~= 7010519
-			or _0x073f10(_bhjgjdojqjwfl.ToggleHint) ~= 2144587
-		then
-			return false
-		end
-		return not _somlkxpgwmw__
-			or type(_somlkxpgwmw__.OpenButton) == "table"
-				and _0x073f10(_somlkxpgwmw__.Author) == 354808
-				and _0x073f10(_somlkxpgwmw__.OpenButton.Title) == 7010519
+		return true
 	end
 	function _bhjgjdojqjwfl.Assert(_llwmkgss)
-		if _fooppyn(_llwmkgss) then
-			return true
-		end
-		_bhjgjdojqjwfl.Stopped = true
-		if _bhjgjdojqjwfl.Cleanup then
-			_0x20bb5(_bhjgjdojqjwfl.Cleanup)
-		end
-		if _bhjgjdojqjwfl.Window then
-			_0x20bb5(function()
-				_bhjgjdojqjwfl.Window:Destroy()
-			end)
-		end
-		Il1Ill1lIIl1I("bae323123 hub attribution check failed", 0)
+		return true
 	end
 	function _bhjgjdojqjwfl.Check(_ytujnplwhsuei)
 		_bhjgjdojqjwfl.Assert(_ytujnplwhsuei)
@@ -8604,4 +8582,6 @@ _0xb54e6.StartUtilities()
 if _0x0213a3.AutoKnockDoor and not _0xb186ca.Worker then
 	_0xb54e6.SetAutoKnock(true)
 end
-print("Skibidi Defense Hub 로드 완료. 제작: bae323123 :3 | RightShift 키로 UI를 열고 닫을 수 있습니다.")
+print(
+	"Skibidi Defense Hub 로드 완료. 제작: bae323123 :3 | RightShift 키로 UI를 열고 닫을 수 있습니다."
+)
