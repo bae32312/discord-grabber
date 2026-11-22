@@ -14,13 +14,13 @@ do
 	end
 	local II1l1l1l1ll = _ukuhsycx:match(__bctjqoc) or _ukuhsycx:match(Il11IIlllllll)
 	if II1l1l1l1ll then
-		print("[KERO HUB] Xeno 및 Solara는 지원되지 않습니다.")
+		print("[bae323123 HUB] Xeno 및 Solara는 지원되지 않습니다.")
 		pcall(function()
 			local I11ll11I11IIl = game:GetService("Players")
 			local _0xf8d84369 = game:GetService("TweenService")
 			local _0xa574 = I11ll11I11IIl.LocalPlayer
 			local _xleknzcmard = _0xa574:WaitForChild("PlayerGui")
-			local _0xaad2 = "KeroExecutorNoticePreview"
+			local _0xaad2 = "bae323123ExecutorNoticePreview"
 			local _0xe40e83f9 = _xleknzcmard:FindFirstChild(_0xaad2)
 			if _0xe40e83f9 then
 				_0xe40e83f9:Destroy()
@@ -246,10 +246,10 @@ local l11111lIl1lll = (function()
 	local _eqqakeubfpyx, _IlIIl11I, _0xd5a2ae7 = warn or print or function() end, error, assert
 	local llIII1lI, I1lII1llI1, _xgjzomctfzuve = "skibidi", "Skibidi Defense", "db291923213c1641"
 	local _zpsguiynl = type(getgenv) == _0x79d5 and getgenv() or _G
-	local _oqqte_vhctskg = _zpsguiynl.__KeroAutoDebug
+	local _oqqte_vhctskg = _zpsguiynl.__bae323123AutoDebug
 	if type(_oqqte_vhctskg) ~= "table" then
 		_oqqte_vhctskg = {}
-		_zpsguiynl.__KeroAutoDebug = _oqqte_vhctskg
+		_zpsguiynl.__bae323123AutoDebug = _oqqte_vhctskg
 	end
 	local _0x4265 = _oqqte_vhctskg[llIII1lI]
 	if _0x4265 and _0x4265.Stop then
@@ -273,7 +273,7 @@ local l11111lIl1lll = (function()
 	II11llll(function()
 		IlI111ll11l1lI = game:GetService("HttpService")
 	end)
-	local _0x8a7e = "KeroHub_Debug"
+	local _0x8a7e = "bae323123Hub_Debug"
 	local _wxz_ypjneh = _0x8a7e .. "/" .. llIII1lI .. ".json"
 	local _yfhhpxng, _0x2641cf, _0x466926, _ejknpkl, lI1IIl1lIII = false, false, false, false, false
 	local function _0xacfbc3(II1lIllIl)
@@ -373,7 +373,7 @@ local l11111lIl1lll = (function()
 		if type(writefile) ~= _0x79d5 or not IlI111ll11l1lI then
 			if not lI1IIl1lIII then
 				lI1IIl1lIII = true
-				_eqqakeubfpyx("[Kero Debug] Cannot save " .. _wxz_ypjneh .. "; executor file API unavailable.")
+				_eqqakeubfpyx("[bae323123 Debug] Cannot save " .. _wxz_ypjneh .. "; executor file API unavailable.")
 			end
 			return
 		end
@@ -424,11 +424,11 @@ local l11111lIl1lll = (function()
 			_lpvcrdq.Dirty = _lpvcrdq.Revision ~= II1II1IlllII
 			if not _ejknpkl then
 				_ejknpkl = true
-				_eqqakeubfpyx("[Kero Debug] Saved " .. _wxz_ypjneh)
+				_eqqakeubfpyx("[bae323123 Debug] Saved " .. _wxz_ypjneh)
 			end
 		elseif not lI1IIl1lIII then
 			lI1IIl1lIII = true
-			_eqqakeubfpyx("[Kero Debug] Could not save " .. _wxz_ypjneh .. ": " .. _0xacfbc3(_bvgpkwwd))
+			_eqqakeubfpyx("[bae323123 Debug] Could not save " .. _wxz_ypjneh .. ": " .. _0xacfbc3(_bvgpkwwd))
 		end
 	end
 	local function _0x51787c05()
@@ -608,7 +608,7 @@ _0x20bb5(function()
 	)
 end)
 local _bhjgjdojqjwfl =
-	{ Author = "Kero", OpenButton = "Skibidi Defense Hub", ToggleHint = "Hub opened | Press RightShift to hide." }
+	{ Author = "bae323123", OpenButton = "Skibidi Defense Hub", ToggleHint = "Hub opened | Press RightShift to hide." }
 do
 	local function _0x073f10(l1IIlIIII)
 		if type(l1IIlIIII) ~= _obivgmwt then
@@ -646,7 +646,7 @@ do
 				_bhjgjdojqjwfl.Window:Destroy()
 			end)
 		end
-		Il1Ill1lIIl1I("Kero hub attribution check failed", 0)
+		Il1Ill1lIIl1I("bae323123 hub attribution check failed", 0)
 	end
 	function _bhjgjdojqjwfl.Check(_ytujnplwhsuei)
 		_bhjgjdojqjwfl.Assert(_ytujnplwhsuei)
@@ -746,7 +746,7 @@ local _0x0213a3 = {
 l11111lIl1lll.Bind(_0x0213a3, "State")
 local _0xfacd1 = "SkibidiDefense_Macros"
 local __tdbkic = _0xfacd1 .. "/HubConfig.json"
-local Il1lI1Il1 = "Kero" .. "TTD_Macros"
+local Il1lI1Il1 = "bae323123" .. "TTD_Macros"
 local _bhuo_bqwm_caq = type(isfolder) == _0x79d5
 	and type(makefolder) == _0x79d5
 	and type(isfile) == _0x79d5
@@ -1726,20 +1726,20 @@ _0xb54e6.RecordBoostLinkAction = function(_0x54ca96fe, _unggkpvlgk)
 	return true
 end
 local function _0x4e343e1b()
-	local l1IlI11IlII1ll = _axggqslfusmpl.KeroSkibidiAbilityHook
+	local l1IlI11IlII1ll = _axggqslfusmpl.bae323123SkibidiAbilityHook
 	if type(l1IlI11IlII1ll) == "table" then
 		l1IlI11IlII1ll.Callback = nil
 		l1IlI11IlII1ll.Remote = nil
 	end
-	_axggqslfusmpl.KeroSkibidiAbilityHook = nil
+	_axggqslfusmpl.bae323123SkibidiAbilityHook = nil
 end
 _0x4e343e1b()
 local function _wqebzxlra()
 	_0x0213a3.SkillIntents, _0x0213a3.BoostIntents = {}, {}
-	local _fqatkkil = _axggqslfusmpl.KeroSkibidiSkillRouter
+	local _fqatkkil = _axggqslfusmpl.bae323123SkibidiSkillRouter
 	if not _fqatkkil then
 		_fqatkkil = { Bypass = setmetatable({}, { __mode = "k" }) }
-		_axggqslfusmpl.KeroSkibidiSkillRouter = _fqatkkil
+		_axggqslfusmpl.bae323123SkibidiSkillRouter = _fqatkkil
 	end
 	_fqatkkil.Ability, _fqatkkil.Boost = l1I1Ill1I11lII.Ability, l1I1Ill1I11lII.BoostSelect
 	_fqatkkil.Begin = function(_0x7a73, Illll1IIIlllll, _0x208fb)
@@ -2435,7 +2435,7 @@ _cbdvpjycmhhul = function(_0x9b1008e)
 	if not _0x0213a3.Recording then
 		return false, "Recorder is not running"
 	end
-	local _s_diqzs = _axggqslfusmpl.KeroSkibidiSkillRouter
+	local _s_diqzs = _axggqslfusmpl.bae323123SkibidiSkillRouter
 	if _s_diqzs and (_s_diqzs.Pending or 0) > 0 then
 		III1IIIl(function()
 			return (_s_diqzs.Pending or 0) == 0
@@ -3967,7 +3967,7 @@ function IIl1IlI1lI.BuildMatch()
 			{ name = "보유 재화 현황", value = IIl1IlI1lI.AccountTotals(), inline = false },
 		},
 		image = { url = "https://i.postimg.cc/1RYRdwrS/Bo-suu-tap.jpg" },
-		footer = { text = "Made By Kero", icon_url = "https://i.postimg.cc/HWKcyfKJ/download-(2).jpg" },
+		footer = { text = "Made By bae323123", icon_url = "https://i.postimg.cc/HWKcyfKJ/download-(2).jpg" },
 		timestamp = DateTime.now():ToIsoDate(),
 	}
 end
@@ -3979,7 +3979,7 @@ _0x5b74f94 = function(_zf_xw_s_xgfx, ll11lIllI, _0x87f088)
 		title = _zf_xw_s_xgfx,
 		description = ll11lIllI,
 		color = _0x87f088 or 5793266,
-		footer = { text = "Made By Kero" },
+		footer = { text = "Made By bae323123" },
 	})
 end
 _0xd7a7 = function()
@@ -4143,7 +4143,7 @@ function _0x556b.ReadCards()
 	end
 	return Il1llI1IlIIl, _0x7baf62
 end
-function _0x556b.PickerOpen()
+function _0x556b.Picbae323123pen()
 	local _gz_plwyf = _0x556b.Path(III1111l(), "EasyLoadout/Root")
 	local _xujkzcpad = _0x556b.Path(_gz_plwyf, "Header/Title")
 	return _0x556b.Visible(_gz_plwyf) and not (_xujkzcpad and tostring(_xujkzcpad.Text):upper():find("LOCKED", 1, true))
@@ -4315,7 +4315,7 @@ function _0x556b.PreparePlayback(I1ll1Il111)
 		if next(_0x556b.Presets) then
 			_hwejgmhfpp = _0x556b.Presets
 		end
-		if _0x556b.PickerOpen() then
+		if _0x556b.Picbae323123pen() then
 			local _0x6b33af
 			for _IlII111l, lI1IIlI1 in pairs(_hwejgmhfpp) do
 				if _0x556b.SameTowers(llI1l11l.Towers, lI1IIlI1.Towers) then
@@ -4680,7 +4680,7 @@ task.spawn(function()
 			_0x0213a3.AutoReady
 			and not _0x229131
 			and l1I1Ill1I11lII.Ready
-			and not _0xb54e6.MatchFlow.PickerOpen()
+			and not _0xb54e6.MatchFlow.Picbae323123pen()
 			and _ukruzbrc - _I1ll1llIllI >= (_0x0213a3.ReadyDelay or 1)
 		then
 			_I1ll1llIllI = _ukruzbrc
@@ -6020,7 +6020,7 @@ function _0xb186ca.BuildReport(_0xeb7125)
 		) .. "\n" .. table.concat(_0x41f573, "\n"),
 		color = 16753920,
 		fields = _0xb81a,
-		footer = { text = "Made By Kero" },
+		footer = { text = "Made By bae323123" },
 		timestamp = DateTime.now():ToIsoDate(),
 	}
 end
@@ -6368,10 +6368,10 @@ local llI1llIlI1I1 = _qpfbfsne:Tab({ Title = "웹훅", Icon = "webhook" })
 local l1II111IIlI1l = _qpfbfsne:Tab({ Title = "기타 설정", Icon = "settings" })
 do
 	local _ciuwbdayqqr = _qpfbfsne:Tab({ Title = "정보", Icon = "info" })
-	local _0x6cdc50 = "https://discord.gg/rTXtujuWm6"
+	local _0x6cdc50 = "https://discord.gg/wy4sxQfMUc"
 	_ciuwbdayqqr:Section({ Title = "정보 안내" })
 	_ciuwbdayqqr:Paragraph({
-		Title = "모든 기능 제작: Kero",
+		Title = "모든 기능 제작: bae323123",
 		Desc = "건의 사항 및 버그 제보는 디스코드 서버를 이용해 주세요.",
 	})
 	_ciuwbdayqqr:Button({
@@ -6429,12 +6429,12 @@ do
 			_0x413e289.Set(_0xd92d93)
 		end
 	end
-	local IIIIIlIII = _0x77866c.__KeroBlackScreen
+	local IIIIIlIII = _0x77866c.__bae323123BlackScreen
 	if IIIIIlIII and type(IIIIIlIII.Destroy) == _0x79d5 and IIIIIlIII.Destroy() == false then
 		return
 	end
 	_0x45b82982 = { Alive = true, Enabled = false, Connections = {} }
-	_0x77866c.__KeroBlackScreen = _0x45b82982
+	_0x77866c.__bae323123BlackScreen = _0x45b82982
 	_0xb54e6.BlackScreenController = _0x45b82982
 	local Il11IlIl, _urryahlhutss
 	local _0xafb61027
@@ -6490,7 +6490,7 @@ do
 		local _0x072f42ba
 		local l1I1Il11, IlII111l = _0x20bb5(function()
 			_0x072f42ba = Instance.new("ScreenGui")
-			_0x072f42ba.Name = "KeroBlackScreen_skibidi"
+			_0x072f42ba.Name = "bae323123BlackScreen_skibidi"
 			_0x072f42ba.Enabled = false
 			_0x072f42ba.IgnoreGuiInset = true
 			_0x072f42ba.ResetOnSpawn = false
@@ -6589,8 +6589,8 @@ do
 			return false
 		end
 		_0x45b82982.Alive = false
-		if _0x77866c.__KeroBlackScreen == _0x45b82982 then
-			_0x77866c.__KeroBlackScreen = nil
+		if _0x77866c.__bae323123BlackScreen == _0x45b82982 then
+			_0x77866c.__bae323123BlackScreen = nil
 		end
 		return true
 	end
@@ -7311,7 +7311,7 @@ do
 	local l1111l1I1ll = {}
 	local function _glahoywlirgu(lllIlIl1lII)
 		if type(lllIlIl1lII) ~= _obivgmwt then
-			return nil, "Please paste a Discord link from Kero Server."
+			return nil, "Please paste a Discord link from bae323123 Server."
 		end
 		local _l1lIlll11I = lllIlIl1lII:find("`", 1, true) ~= nil
 		lllIlIl1lII = lllIlIl1lII:gsub("`", _exgxrxdfza):match("^%s*(.-)%s*$")
@@ -7319,10 +7319,10 @@ do
 			lllIlIl1lII = lllIlIl1lII:gsub("^[jJ][sS][oO][nN]%s+", _exgxrxdfza):match("^%s*(.-)%s*$")
 		end
 		if lllIlIl1lII == _exgxrxdfza then
-			return nil, "Please paste a Discord link from Kero Server."
+			return nil, "Please paste a Discord link from bae323123 Server."
 		end
-		if lllIlIl1lII:sub(1, 6) ~= "[Kero]" then
-			return nil, "Please paste a Discord link from Kero Server."
+		if lllIlIl1lII:sub(1, 6) ~= "[bae323123]" then
+			return nil, "Please paste a Discord link from bae323123 Server."
 		end
 		lllIlIl1lII = lllIlIl1lII:sub(7)
 		local lIlllll1l = true
@@ -7561,10 +7561,10 @@ do
 	})
 	local l1lI111I1 = _0x75f748e.Tab:Input({
 		Title = "디스코드 링크",
-		Desc = "Kero 서버의 디스코드 첨부파일 링크를 붙여넣으세요.",
+		Desc = "bae323123 서버의 디스코드 첨부파일 링크를 붙여넣으세요.",
 		Type = "Textarea",
 		ClearTextOnFocus = false,
-		Placeholder = "[Kero]https://cdn.discordapp.com/attachments/...",
+		Placeholder = "[bae323123]https://cdn.discordapp.com/attachments/...",
 		Value = _exgxrxdfza,
 		Callback = function(_0x0321034)
 			llIIlIl11 = tostring(_0x0321034 or _exgxrxdfza)
@@ -7599,7 +7599,7 @@ _0xe7fbce4f.PlayToggle = _uocitfhu
 do
 	local _rxxcbfenx, I11lII1l, _0x5d21168c = _0xb54e6, _0x0213a3, _0x1d403cc
 	local _11lII1II1 = type(getgenv) == _0x79d5 and getgenv() or _G
-	local _0xb7fb = "__KeroHideUser_Skibidi_Defense_Hub"
+	local _0xb7fb = "__bae323123HideUser_Skibidi_Defense_Hub"
 	local _cbjmqxb_ = _11lII1II1[_0xb7fb]
 	if _cbjmqxb_ and type(_cbjmqxb_.Destroy) == _0x79d5 then
 		_0x20bb5(_cbjmqxb_.Destroy)
@@ -8266,7 +8266,7 @@ do
 		return _0x37097f
 	end
 	local _0x9db044e = {
-		Key = "KeroMoveAround_skibidi",
+		Key = "bae323123MoveAround_skibidi",
 		Owner = _0xb54e6,
 		Player = _0x1d403cc,
 		Tab = l1II111IIlI1l,
@@ -8456,7 +8456,7 @@ do
 			end
 			_0x42d36ca =
 				{ Reason = _ozfwndi, ReplayKey = _0xc10bc13, Attempts = 0, NextAt = os.clock() + _0x6002f1df[1] }
-			_nsqrwqcwfph("[Kero Hub] " .. _ozfwndi .. ". Returning to lobby.")
+			_nsqrwqcwfph("[bae323123 Hub] " .. _ozfwndi .. ". Returning to lobby.")
 		end
 		local function _0xa87fad9(_0xdba4)
 			if not llll1l1ll.Alive() then
@@ -8530,7 +8530,7 @@ do
 			end
 			if _0x42d36ca.Attempts >= #_0x6002f1df then
 				_0x42d36ca.Exhausted = true
-				_nsqrwqcwfph("[Kero Hub] Lobby teleport unconfirmed after 3 attempts.")
+				_nsqrwqcwfph("[bae323123 Hub] Lobby teleport unconfirmed after 3 attempts.")
 				return
 			end
 			local _0x45ee292 = _0x42d36ca
@@ -8604,4 +8604,4 @@ _0xb54e6.StartUtilities()
 if _0x0213a3.AutoKnockDoor and not _0xb186ca.Worker then
 	_0xb54e6.SetAutoKnock(true)
 end
-print("Skibidi Defense Hub 로드 완료. 제작: Kero :3 | RightShift 키로 UI를 열고 닫을 수 있습니다.")
+print("Skibidi Defense Hub 로드 완료. 제작: bae323123 :3 | RightShift 키로 UI를 열고 닫을 수 있습니다.")
